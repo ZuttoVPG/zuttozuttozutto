@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/OwlManAtt/zutto-api.git
+[submodule "ui"]
+	path = ui
+	url = https://github.com/OwlManAtt/zutto-ui.git
