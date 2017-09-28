@@ -1,0 +1,12 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/ZuttoVPG/zutto-api.git
+	branch = master
+[submodule "ui"]
+	path = ui
+	url = https://github.com/ZuttoVPG/zutto-ui.git
+	branch = master
+[submodule "character"]
+	path = character
+	url = https://github.com/ZuttoVPG/zutto-character.git
+	branch = master
